@@ -1,0 +1,27 @@
+
+Segundo contacto con la libreria Truffle
+
+Fuente: https://www.trufflesuite.com/tutorials/getting-started-with-drizzle-and-react
+Este ejemplo ha sido tomado de la URL antes mencionada, con ciertas adpataciones
+para su mejor compresion.
+
+Convensiones:
+! este simbolo indica informacion que se desea transmitir
+
+Todo este ejemplo ha sido ejecutado desde el command prompt del sistema operativo.
+
+0. Pre requisitos
+npm install -g create-react-app
+npm install @drizzle/store
+
+1. Tareas a Realizar
+
+! Seguir el tutorial en la web indicado anteriormente hasta,
+  Creating our React.js project
+
+! Configurar Metamask .
+  Crear una conexion al nodo local de Truffle e importar la primer cuenta.
+  Recordar reiniciar cuenta cada vez que se inicia el nodo.
+
+! Continuar con el turorial indicado anteriormente desde,
+  Creating our React.js project    
