@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: Unlicense
 pragma solidity ^0.6.0;
 
- // import "hardhat/console.sol";
+// import "hardhat/console.sol";
 
 // Import PaymentSplitter from the OpenZeppelin Contracts library
 import "@openzeppelin/contracts/payment/PaymentSplitter.sol";
